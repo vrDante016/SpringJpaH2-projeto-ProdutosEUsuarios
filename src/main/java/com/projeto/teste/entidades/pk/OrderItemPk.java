@@ -3,6 +3,7 @@ package com.projeto.teste.entidades.pk;
 import java.io.Serializable;
 import java.util.Objects;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.projeto.teste.entidades.Order;
 import com.projeto.teste.entidades.Produtos;
 
